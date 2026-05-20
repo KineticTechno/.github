@@ -2,7 +2,9 @@
 
 # Unified Nexgrade
 
-**Innovative SaaS software solutions — India**
+**Built to Move Markets**
+
+From supply chain to the last sip — powering every layer of India's café ecosystem.
 
 [![Website](https://img.shields.io/badge/Web-unifiednexgrade.com-ff6b00?style=flat-square)](https://unifiednexgrade.com)
 [![Email](https://img.shields.io/badge/Contact-hello%40unifiednexgrade.com-1C1B19?style=flat-square)](mailto:hello@unifiednexgrade.com)
@@ -12,39 +14,32 @@
 
 ---
 
-## What we build
+## Our Mission
 
-We design and ship full-stack B2B and B2C products for the food, retail, and SaaS space.
+Building the infrastructure India's food economy can't run without.
 
-### Gradient 365
-A 3-sided B2B marketplace digitising the cafe supply chain in India. Connects **brands → suppliers → cafes** with trial campaigns, live consumption analytics, encrypted order chat, and price negotiation.
-
-> Four portals · Next.js 15 · Express · PostgreSQL · WebSocket real-time
-
-### Grabit
-Standalone B2C pre-order app for cafe customers. Browse menu, pick a 15-min pickup slot, pay online or at counter — order ready when you arrive. Multi-tenant from day one.
-
-> Next.js 15 · Supabase Realtime · Cashfree · MSG91 · WhatsApp Business API
-
-### Omega POS
-Petpooja-style multi-tenant POS for restaurants and retail. Java/Spring backend, Next.js web admin, Flutter mobile, Postgres RLS for tenant isolation.
-
-> Java · Spring Boot · Next.js · Flutter · Postgres
+We design digital systems that make every relationship across the supply chain smarter, faster, and more profitable — connecting factory floors to café counters.
 
 ---
 
-## Stack
+## What We Build
 
-`Next.js 15` · `React 19` · `TypeScript` · `Tailwind v4` · `Express` · `PostgreSQL` · `Supabase` · `Java` · `Spring` · `Flutter` · `Vercel` · `Railway`
+### Gradient
+B2B supply chain intelligence platform connecting cafés to suppliers.
+
+### Grabit
+Zero-queue café pre-order system with timed pickups.
+
+### Omega
+Point-of-sale system (coming soon) bridging storefronts and supply chains.
 
 ---
 
 ## Principles
 
-- **Privacy by architecture** — competing tenants coexist; data walls are hard, not policy
-- **One backend, many surfaces** — shared API, portal-specific frontends
-- **Ship the boring stuff well** — auth, payments, real-time, encryption — all production-grade from v1
-- **Mobile-first, India-first** — UPI, WhatsApp, voice OTP, low-bandwidth defaults
+- **Infrastructure that endures** — built to evolve and empower, not just ship
+- **Relationships first** — every product serves a real connection across the supply chain
+- **The layer you never see** — invisible by design, indispensable in practice
 
 ---
 
