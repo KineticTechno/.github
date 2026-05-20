@@ -5,7 +5,7 @@
 **Innovative SaaS software solutions — India**
 
 [![Website](https://img.shields.io/badge/Web-unifiednexgrade.com-ff6b00?style=flat-square)](https://unifiednexgrade.com)
-[![Email](https://img.shields.io/badge/Contact-sahil.kumar%40jumbotail.com-1C1B19?style=flat-square)](mailto:sahil.kumar@jumbotail.com)
+[![Email](https://img.shields.io/badge/Contact-hello%40unifiednexgrade.com-1C1B19?style=flat-square)](mailto:hello@unifiednexgrade.com)
 [![Location](https://img.shields.io/badge/Based%20in-India-6B21A8?style=flat-square)]()
 
 </div>
@@ -52,6 +52,8 @@ Petpooja-style multi-tenant POS for restaurants and retail. Java/Spring backend,
 
 **Get in touch**
 
-[unifiednexgrade.com](https://unifiednexgrade.com) · [sahil.kumar@jumbotail.com](mailto:sahil.kumar@jumbotail.com)
+[unifiednexgrade.com](https://unifiednexgrade.com)
+
+[hello@unifiednexgrade.com](mailto:hello@unifiednexgrade.com) · [gradient365.team@gmail.com](mailto:gradient365.team@gmail.com)
 
 </div>
